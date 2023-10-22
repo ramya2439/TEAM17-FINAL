@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.academy-bg-info{
+    background-image:URL("https://res.cloudinary.com/dyddqgyby/image/upload/v1696229447/calender_lwcqgu.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:400px;
+    width:1500px;
+}
+table {
+    border-collapse: collapse;
+   width:1550px;
+
+    font-family: "Roboto";   
+}
+.uni-logo{
+    height:35px;
+    width:40px;
+    
+}
+th,
+td {
+     
+    background-image: linear-gradient(to left, #000046, #1cb5e0);
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+th {
+    background-image: linear-gradient(to right, #000046, #1cb5e0);
+}
+
+.td-set {
+    color: #ffffff;
+    font-family: "Roboto";
+}
+
+.footer-set {
+    background-color: #000000;
+    height: 250px;
+    width: 1500px;
+    padding: 30px;
+}
+
+.h-set {
+    color: #000000;
+    font-weight: 400;
+}
+
+.image-resize-icon {
+    height: 80px;
+    width: 80px;
+}
+
+.unordered-set {
+    list-style-type: none;
+}
+
+.footer-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.footer-horizontal {
+    border-style: solid;
+    border-width: 1px;
+    border-color: green;
+}
+
+.unordered-set {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.footer-paragraph {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.image-size-1 {
+    height: 60px;
+    width: 190px;
+}
+
+.nav-link,
+.dropdown-menu {
+    color: #191654 !important;
+    font-size: 18px;
+    font-weight: 600;
+    padding:15px;
+    margin-left:4px;
+}
+
+.align-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bg-set {
+
+    background-color: #2a5298;
+}
+
+.a-set {
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.companies-set {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.image-set-c {
+    height: 80px;
+    width: 200px;
+    padding:15px;
+}

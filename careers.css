@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.career-bg{
+    background-image:url("https://res.cloudinary.com/dyddqgyby/image/upload/v1696511779/carrer-1_idyl18.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:500px;
+    width:1500px;
+}
+.uni-logo{
+    height:35px;
+    width:40px;
+    
+}
+.career-head{
+    color:#000000;
+    font-size:60px;
+    font-family:"Roboto";
+    font-weight:600;
+    margin-left:20px;
+}
+.info-careers{
+   background-image:url("https://res.cloudinary.com/dyddqgyby/image/upload/v1696230307/link-bg_q94pxx.jpg");
+   background-size:cover;
+   background-repeat:no-repeat;
+    width:1500px;
+    height:900px;
+     padding:30px;
+}
+.info-career-head1{
+    font-size:45px;
+    font-family:"Roboto";
+    font-weight:600;
+    color:#ffffff;
+}
+.info-career-head2{
+      font-size:18px;
+    font-family:"Roboto";
+    font-weight:400;
+    color:grey;
+}
+.info-career-info-para{
+     font-size:17px;
+    font-family:"Roboto";
+    font-weight:400;
+    color:#ffffff;
+    text-align:center;
+}
+.info-data-input{
+    
+    width:600px;
+    height:50px;
+    background-color:#eef2f3;
+    border-width:2px;
+    border-color:#000000;
+    padding:10px;
+}
+.info-data-input2{
+    
+    width:600px;
+    height:50px;
+    background-color:#eef2f3;
+    padding:10px;
+    border-width:2px;
+    border-color:#000000
+}
+.info-button{
+    width:610px;
+    height:50px;
+    border-width:0px;
+    background-color:#45b649;
+    color:#ffffff;
+    font-size:18px;
+    font-weight:500;
+}
+
+.bg-container-list-s{
+    height:100vh;
+    width:100vw;
+}
+.footer-set{
+    background-color:#000000;
+    height:250px;
+    width:1500px;
+    padding:30px;
+}
+.h-set{
+    color:#000000;
+    font-weight:400;
+}
+.image-resize-icon{
+    height:80px;
+    width:80px;
+}
+.unordered-set{
+    list-style-type:none;
+}
+.footer-heading{
+    color:#ffffff;
+    font-family: "Roboto";
+    font-weight:500;
+}
+.footer-horizontal{
+    border-style:solid ;
+    border-width:1px;
+    border-color:green;
+}
+.unordered-set{
+    color:grey;
+    font-family:"Roboto";
+    font-size:18px;
+}
+.footer-paragraph{
+    color:grey;
+     font-family:"Roboto";
+     font-size:18px;
+}
+.image-size-1{
+    height:60px;
+    width:190px;
+}
+.nav-link,.dropdown-menu{
+    color:#191654 !important;
+    font-size:18px;
+    font-weight:600;
+    padding:15px;
+    margin-left:4px;
+}
+
+.align-item{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+.bg-set{
+    
+    background-color:#2a5298;
+}
+
+.a-set{
+    color:#ffffff;
+    font-size:17px;
+}
+.companies-set{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
+
+.image-set-c{
+    height:80px;
+    width:200px;
+    padding:15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

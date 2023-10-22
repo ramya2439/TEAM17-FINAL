@@ -1,0 +1,204 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.about-us-bg {
+    background-image: url("https://res.cloudinary.com/dyddqgyby/image/upload/v1696228747/6565e12f-f0fc-4b3e-a446-d6c260145bc9_njxbbl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 1500px;
+    padding: 80px;
+}
+.uni-logo{
+    height:35px;
+    width:40px;
+    
+}
+.about-us-head1 {
+    color: #228b22;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.about-us-head2 {
+    color: #ffffff;
+    font-size: 48px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.about-us-history {
+    color: #000000;
+    font-weight: 600;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.about-us-hr {
+    border-style: solid;
+    width: 90%;
+    border-width: 2px;
+    border-color: #228b22;
+}
+
+.about-us-para1 {
+    color: #000000;
+    font-size: 17px;
+    font-family: "Roboto";
+}
+
+.about-info-bg {
+    background-image: url("https://res.cloudinary.com/dyddqgyby/image/upload/v1696230307/link-bg_q94pxx.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    min-width: 1550px;
+}
+
+.about-info-logo {
+    height: 75px;
+    width: 75px;
+}
+
+.about-info-logo-head {
+    color: #228b22;
+    font-family: "Roboto";
+    font-size: 20px;
+   
+}
+
+.about-info-logo-para {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 17px;
+    
+}
+
+.about-card1 {
+    height: 500px;
+    min-width: 800px;
+}
+
+.about-card2{
+    background-image:linear-gradient(to left,#2980b9,#6dd5fa,#ffffff);
+    height: 500px;
+    min-width: 750px;
+    padding:30px;
+    
+}
+.about-card3{
+    background-image:linear-gradient(to right,#2980b9,#6dd5fa,#ffffff);
+    height: 500px;
+    min-width: 800px;
+    padding:30px;
+   
+}
+
+.about-us-details-image {
+    height: 500px;
+    width: 750px;
+}
+
+.about-card2-head {
+    color:#000000;
+    font-size:35px;
+    font-family:"Roboto";
+    font-weight:600;
+}
+
+.about-card2-para {
+    color:#000000;
+    font-size:18px;
+    font-family:"Roboto";
+    font-weight:500;
+}
+
+
+
+.bg-container-list-s{
+    height:100vh;
+    width:100vw;
+}
+.footer-set{
+    background-color:#000000;
+    height:250px;
+    width:1500px;
+    padding:30px;
+}
+.h-set{
+    color:#000000;
+    font-weight:400;
+}
+.image-resize-icon{
+    height:80px;
+    width:80px;
+}
+.unordered-set{
+    list-style-type:none;
+}
+.footer-heading{
+    color:#ffffff;
+    font-family: "Roboto";
+    font-weight:500;
+}
+.footer-horizontal{
+    border-style:solid ;
+    border-width:1px;
+    border-color:green;
+}
+.unordered-set{
+    color:grey;
+    font-family:"Roboto";
+    font-size:18px;
+}
+.footer-paragraph{
+    color:grey;
+     font-family:"Roboto";
+     font-size:18px;
+}
+.image-size-1{
+    height:60px;
+    width:190px;
+}
+.nav-link,.dropdown-menu{
+    color:#191654 !important;
+    font-size:18px;
+    font-weight:600;
+    padding:15px;
+    margin-left:4px;
+}
+
+.align-item{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+}
+.bg-set{
+    
+    background-color:#2a5298;
+}
+
+.a-set{
+    color:#ffffff;
+    font-size:17px;
+}
+.companies-set{
+    display: flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
+
+.image-set-c{
+    height:80px;
+    width:200px;
+    padding:15px;
+}
+
+
+
+
+
+
+
+
+

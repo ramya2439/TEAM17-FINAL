@@ -1,0 +1,241 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.home-bg-c {
+    height: 550px;
+    width: 1500px;
+}
+
+.carousel-head {
+    text-align: center;
+    color: #000000;
+    font-size: 35px;
+    font-family: "Roboto";
+}
+
+.carousel-img {
+    height: 550px;
+    width: 1500px;
+}
+.uni-logo{
+    height:35px;
+    width:40px;
+    
+}
+.home-info-head {
+    color: #00264D;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.home-info-para {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 400;
+}
+
+
+
+.home-info-cimage {
+    background-image: url(" https://res.cloudinary.com/dyddqgyby/image/upload/v1696228747/6565e12f-f0fc-4b3e-a446-d6c260145bc9_njxbbl.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 750px;
+}
+
+.bg-info-cimage {
+    height: 400px;
+    min-width: 800px;
+    background-image: url("https://res.cloudinary.com/dyddqgyby/image/upload/v1696511477/18ce9e37eca000cc3aeacc2fa7058786_dsdshh.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.home-bg-head {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.home-info-para1 {
+    color: #228B22;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.image-home-logo {
+    height: 100px;
+    width: 250px;
+}
+
+.image-home-head {
+    font-size: 25px;
+    color: #228B22;
+    font-weight: 500;
+    font-family: "Roboto";
+}
+
+.home-infra-extra-head {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 23px;
+}
+
+.home-infra-extra-para {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.image-home-para {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.home-infra {
+    background-color: transparent;
+    padding: 30px;
+    height: 400px;
+    width: 1500px;
+}
+
+.home-infra-extra {
+    background-color:#000000;
+    height: 300px;
+    width: 1500px;
+    padding: 60px;
+}
+
+.home-info-para2 {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.home-infra-logo {
+    height: 50px;
+    width: 50px;
+    border-radius: 15px;
+}
+
+.home-about-university {
+    background-image: url("https://res.cloudinary.com/dyddqgyby/image/upload/v1696230307/link-bg_q94pxx.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px;
+    padding: 60px;
+    width: 1500px;
+}
+
+.home-infra-head {
+    color: #000000;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.home-infra-para {
+    color: #000000;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.bg-container-list-s {
+    height: 100vh;
+    width: 100vw;
+}
+
+.footer-set {
+    background-color: #000000;
+    height: 250px;
+    width: 1500px;
+    padding: 30px;
+}
+
+.h-set {
+    color: #000000;
+    font-weight: 400;
+}
+
+.image-resize-icon {
+    height: 80px;
+    width: 80px;
+}
+
+.unordered-set {
+    list-style-type: none;
+}
+
+.footer-heading {
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.footer-horizontal {
+    border-style: solid;
+    border-width: 1px;
+    border-color: green;
+}
+
+.unordered-set {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.footer-paragraph {
+    color: grey;
+    font-family: "Roboto";
+    font-size: 18px;
+}
+
+.image-size-1 {
+    height: 60px;
+    width: 190px;
+}
+
+.nav-link,
+.dropdown-menu {
+    color: #191654 !important;
+    font-size: 18px;
+    font-weight: 600;
+    padding:15px;
+    margin-left:4px;
+}
+
+.align-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.bg-set {
+
+    background-color: #2a5298;
+}
+
+.a-set {
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.companies-set {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.image-set-c {
+    height: 90px;
+    width: 200px;
+    padding:15px;
+}
